@@ -1,0 +1,8 @@
+{
+  "python.defaultInterpreterPath": "C:\\Users\\koki2\\Desktop\\VENVS\\VENV_STRATEGY_OPTIONS\\Scripts\\python.exe",
+  "python.venvPath": "C:\\Users\\koki2\\Desktop\\VENVS",
+  "python.analysis.venvPath": "C:\\Users\\koki2\\Desktop\\VENVS",
+  "python.analysis.indexing": true,
+  "python.analysis.autoImportCompletions": true,
+  "python.terminal.activateEnvironment": true
+}

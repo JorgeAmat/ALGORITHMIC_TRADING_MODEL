@@ -1,0 +1,54 @@
+# Core
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+
+# Machine Learning / Deep Learning
+tensorflow
+keras
+scikit-learn
+statsmodels
+
+# Finance & Data
+yfinance
+arch
+ta
+pandas-datareader
+
+# Optimization & Parallelization
+tqdm
+multiprocessing-logging
+optuna
+
+# GUI
+tkintertable
+customtkinter
+
+# File handling & Utilities
+openpyxl
+python-docx
+reportlab
+pypandoc
+
+# API / Real-Time Trading
+alpaca-trade-api
+requests
+websocket-client
+
+# Logging & Configuration
+loguru
+pyyaml
+
+# Quantum / Experimental
+sympy
+numba
+
+# Visualization
+plotly
+dash
+
+# Dev tools
+pytest
+black
